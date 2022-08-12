@@ -7,22 +7,9 @@
   body {
     background-size: cover;
     background-color: #7C7C7C;
-    /* background: url('https://i.pinimg.com/originals/61/89/21/61892182d2c104029a5c1a201f2b4afe.jpg') no-repeat center center fixed; */
-    /* background: linear-gradient(
-      to right,
-      #8EE3F5  0%,
-      #8EE3F5 50%,
-      #F3D8C7 50%,
-      #F3D8C7 100%
-    ); */
-
+  
   }
-/* 
-  nav{
-    display: inline-flex;
-    justify-content: center;
-    align-items: center;
-  } */
+
   
   header {
     height: 50px; 
@@ -64,18 +51,13 @@
     width: 100px;
     cursor: pointer;
   }
-  /* main {
-    display: flex;
-  justify-content: space-between;}
-   */
+  
     #circle{
-      /* background-color: #232323; */
+    
       display: flex;
       justify-content: center;
       margin-top: 50px;
-      /* height: 350px;
-      width: 350px;
-      border-radius: 50%; */
+      
     }
 
   form {
@@ -144,28 +126,15 @@
   }
   
   #strawhat-container {
-    /* display: grid;
-    width: auto;
-    /* flex-wrap: wrap; */
-    /* justify-content: center;
-    align-items: center;  */
     border: solid white;
     background-color: #54F2F2;
     padding: 50px;
-    /* margin-bottom: 100px; */
-    /* max-width: 750px; */
-    /* height: 650px; */
-    /* display: flex; */
+
     flex-wrap:wrap;
     justify-content: center;
     text-align: center;
-    /* border: 2px solid black; */
-    border-radius: 10px;
-    /* background-color: rgba(194, 203, 169, 0.473); */
-    
+    border-radius: 10px;    
     display: flex; 
-    /* grid-template-columns: 1fr 1fr; 
-    grid-gap: 20px; */
   }
   .strawhat-cover-image {
     width: 300px; 
