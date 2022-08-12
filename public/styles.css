@@ -1,0 +1,214 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  body {
+    background-size: cover;
+    background-color: #7C7C7C;
+    /* background: url('https://i.pinimg.com/originals/61/89/21/61892182d2c104029a5c1a201f2b4afe.jpg') no-repeat center center fixed; */
+    /* background: linear-gradient(
+      to right,
+      #8EE3F5  0%,
+      #8EE3F5 50%,
+      #F3D8C7 50%,
+      #F3D8C7 100%
+    ); */
+
+  }
+/* 
+  nav{
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+  } */
+  
+  header {
+    height: 50px; 
+    display: flex; 
+    justify-content: center; 
+    align-items: center;
+    color: #71A9F7;
+  }
+
+  article{
+    color: #080357;
+    text-align: center;
+    padding: 15px;
+    display: flex;
+    align-self: center;
+    width: 50%;
+  }
+
+  .logo{
+    width: 100px;
+    height: 100px;
+    position: sticky;
+    left: 0; top: 0;
+    padding: 0;
+    display: flex;
+    border-radius: 50%;
+    animation: spin 3s infinite ease-in-out;
+}
+
+@keyframes spin {
+  0%{
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+  .pic_1{
+    width: 100px;
+    cursor: pointer;
+  }
+  /* main {
+    display: flex;
+  justify-content: space-between;}
+   */
+    #circle{
+      /* background-color: #232323; */
+      display: flex;
+      justify-content: center;
+      margin-top: 50px;
+      /* height: 350px;
+      width: 350px;
+      border-radius: 50%; */
+    }
+
+  form {
+    width: 350px;
+    height: 350px;
+    background-color: #F6BD60;
+    border: solid 3px #03254E;
+    position: relative;
+    display: flex; 
+    flex-direction: column;
+    justify-content: center; 
+    align-items: center;
+    margin: 30px;
+    border-radius: 50%;
+  }
+  .form_2{
+    display: flex;
+    flex-direction: column;
+  }
+  p1{
+    padding: 15px;
+  }
+  button {
+    background-color: black;
+    width: 75px;
+    height: 25px;
+    color: white ;
+    border: none;
+    margin: 5px;
+  }
+  .join{
+    display: inline-flex;
+    height: 25px;
+    padding: 0;
+    border: none;
+    border-radius: 5px;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight: 500;
+    cursor: pointer;
+  }
+  .button_text, .button_icon{
+    display: inline-flex;
+    align-items: center;
+  
+  }
+
+  input[type='text'] {
+    width: 85%;
+    height: 30px;
+    border: none;
+    border-bottom: 2px solid #232323;
+    color: #232323;
+    background-color: white;
+  }
+  
+  #bounty-container {
+    width: 85%;
+  }
+  
+  #radio-container {
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+  }
+  
+  #strawhat-container {
+    /* display: grid;
+    width: auto;
+    /* flex-wrap: wrap; */
+    /* justify-content: center;
+    align-items: center;  */
+    border: solid white;
+    background-color: #54F2F2;
+    padding: 50px;
+    /* margin-bottom: 100px; */
+    /* max-width: 750px; */
+    /* height: 650px; */
+    /* display: flex; */
+    flex-wrap:wrap;
+    justify-content: center;
+    text-align: center;
+    /* border: 2px solid black; */
+    border-radius: 10px;
+    /* background-color: rgba(194, 203, 169, 0.473); */
+    
+    display: flex; 
+    /* grid-template-columns: 1fr 1fr; 
+    grid-gap: 20px; */
+  }
+  .strawhat-cover-image {
+    width: 300px; 
+    height: 300px;
+    border-bottom: solid 2px #232323;
+    border-top-left-radius: 12px;
+    border-top-right-radius: 12px;
+  }
+  
+  .strawhat-card {
+    background-color:  #F6BD60;
+    width: 300px;
+    margin: 20px; 
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    border-radius: 12px;
+    border: solid 3px white;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+  }
+  
+  .strawhats-name {
+    font-size: 18px;
+    margin: 5px 0;
+  }
+  .strawhats-bio {
+    font-size: 15px;
+    margin: 5px 0;
+  }
+
+  .strawhats-bounty {
+    font-size: 15px;
+    margin: 5px 0;
+  }
+  
+  .btns-container {
+    width: 100%; 
+    display: flex;
+    justify-content: space-evenly;
+    margin: 5px;
+  }
+  
+  .btns-container > button {
+    width: 20px;
+  }

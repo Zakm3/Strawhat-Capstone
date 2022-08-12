@@ -1,0 +1,87 @@
+[
+ {
+      "id": 1,
+      "name": "Monkey D. Luffy",
+      "bio": "Ever since the day Luffy met Shanks and ate the gumo gumo no mi (gum gum fruit) he's has aspirations to become the 'King of the Pirates', and with the crew he's gathered he is well on his way to making that a reality.",
+      "bounty": 3000000000,
+      "imageURL" : "https://cutewallpaper.org/21/monkey-d-luffy-smile/A-big-happy-smile-on-Luffy-face-One-Piece-in-2019-Anime-.jpg"
+    },
+    {
+
+      "id": 2,  
+      "name": "Roronoa Zoro",
+      "bio": "Growing up in a dojo in the 'East Blue' Zoro has alaways pushed himself to be the best. Losing his friend Kuina at the age of 8 (and her being the better swordsman at the time) Zoro vowed to become the world's greatest swordsman!",
+      "bounty": 320000000,
+      "imageURL" : "https://i.pinimg.com/originals/03/2b/80/032b80b99263681de0ae284c015c844f.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Nami",
+      "bio" : "Nami grew up as an orphan and was raised by a marine who was later murdered by pirates. After that she was forced to draw seacharts for the pirates that ruined her life until eventually she was saved by Luffy. Now she's the navigator of the strawhats and she has a dream to draw charts for all the seas in the world!",
+      "bounty": 16000000,
+      "imageURL" : "https://sportshub.cbsistatic.com/i/2021/09/08/9f57702e-88a3-432f-8c64-2f5808e22a1d/one-piece-nami-1281877.jpg"
+    },
+    {
+      "id": 4,
+      "name": "God Ussop",
+      "bio" : "Ussop's father abandoned his village for a life at sea before he could even remember him. Ussop's dream is to be a brave warrior of the sea and follow in his fathers footsteps.",
+      "bounty": 200000000,
+      "imageURL" : "https://i.ytimg.com/vi/Q1BqlYsTb7E/maxresdefault.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Vinsmoke Sanji",
+      "bio" : "Betrayed and tortured by his family, Sanji ran away from home at the age of 7. He met an old Pirate named Zeff and worked as sous chef on his ship the 'Baratie' until deciding to join as the chef of the strawhat pirates. Sanji's dream is to find the legendary 'All blue' a magical place where all the seas meet!",
+      "bounty": 330000000,
+      "imageURL" : "https://staticg.sportskeeda.com/editor/2021/11/bebad-16363845299521-1920.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Tony Tony Chopper",
+      "bio" : "Abandoned by his family for having a blue nose, Chopper ate the human human fruit and became a reindeer witht he abilty to transform and also communicate with humans. He stayed on 'Drum Island' learning medicine until he joined the strawhat pirates as the ship doctor!",
+      "bounty": 100,
+      "imageURL" : "https://i.pinimg.com/originals/fb/02/5e/fb025ead26e7fdc4c668e151347c5abb.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Nico Robin",
+      "bio" : "Dubbed 'demon child' Robin's entire home of 'Ohara' was destroyed by the marines with a buster call because they tried to learn the secret history of the world. Robin was the only survivor and she's been on the run since. Her dream is to learn and expose what happened to the world during the 'Void Century'!",
+      "bounty": 130000000,
+      "imageURL" : "https://i.pinimg.com/736x/aa/55/39/aa55399255e4669815a3b655f7ccca0f.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Franky",
+      "bio" : "Frany grew up in 'Water 7' a shipbuilding island. He is one of the best shipwrights in the world and his dream is to build a ship that sails the entire world(which is how he joined the crew).",
+      "bounty": 94000000,
+      "imageURL" : "https://simkl.in/episodes/25/2592064c7d6d64cde_w.jpg"
+    },
+    {
+      "id": 9,
+      "name": "Brook",
+      "bio" : "Brook became a skeleton because he died. He ate the revive revive fruit but because of the thick fog surrounding his place of death his soul couldn't find his body until it decomposed. Brook is on a journey to reunite with his old friend Laboon and is currently the musician of the strawhat pirates.",
+      "bounty": 83000000,
+      "imageURL" :"https://onepiecefcweb.files.wordpress.com/2016/09/brook-new-world.jpg?w=656"
+    }, 
+    {  
+    "id": 10,
+    "name": "Jinbei",
+    "bio" : "Jinbei or 'First son of the sea' was a former Warlord(pirates with marine backing) now he's the loyal and wise helmsman of the strawhat pirates!",
+    "bounty": 438000000,
+    "imageURL" : "https://pm1.narvii.com/6578/d7f9d2599a2760c12cfcadfdfabc80f99775d4ec_hq.jpg"
+    }, 
+    {
+    "id": 11,
+    "name": "Yamato",
+    "bio" : "One of the four emperors of the sea Kaido's son. Yamato has a dream and it's to join the strawhat pirates and live a life free and on the open seas!",
+    "bounty": 500000000,
+    "imageURL" : "https://staticg.sportskeeda.com/editor/2022/06/633c5-16541701006876-1920.jpg"
+    }, 
+    {
+    "id": 12,
+    "name": "Princess Vivi",
+    "bio" : "Vivi is an honary member of the strawhats. The princess of the desert country 'Alabasta' she couldn't join the crew without becoming an enemy of the world government and possibly throwing her country in turmoil. The crew understood and she's still with them in spirit!",
+    "bounty": null,
+    "imageURL" : "https://pbs.twimg.com/media/E-N0xiKXIAUFJGZ.jpg"
+    }
+  ]
